@@ -6,10 +6,9 @@
 	</head>
 	<body>
 		<h1>About Me</h1>
-		<p>My name is Jack, I am 24 years old and I'm from Albuquerque, NM. I graduated from UNM in 2016 and have
-			worked in sales and financial services during the past year. I am a soccer fan, musician, and outdoor
-			enthusiast. In my spare time I can be found outside either slacklining, longboarding, snowboarding, or playing
-			soccer. Or I may be inside playing guitar, reading, or watching Netflix.
+		<p>My  current name is Jack, I am 5,000 years old and From A place long forgotton called artremis. I was gentically engineered to survive the first
+			nuclear appocolypse. I was the first male among a Matriarchal society . I am what this generation calls adam. In my spare time I can be found people watching, its become a hobby of mine in the last few centruries. Ive even picked up a doctorate in archeology . I miss the roman empire, I once was a gladiator and the shadow advisor to the great kings and emperors of the western world.
+			In this new information age, I have now the oportunity to share my leagacy with the world.
 		</p>
 		<img id="me" src="images/me-resized.jpg" alt="me">
 	</body>
